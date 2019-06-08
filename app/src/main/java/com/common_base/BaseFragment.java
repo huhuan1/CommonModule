@@ -32,7 +32,7 @@ public abstract class BaseFragment extends RxFragment {
     public boolean isVisiable;
     public View loadingView, emptyView;
 
-    private String test="ceshi";
+    private String test="ssssss";
 
     @Override
     public void onAttach(Context context) {
