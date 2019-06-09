@@ -33,8 +33,8 @@ public abstract class BaseFragment extends RxFragment {
     public View loadingView, emptyView;
 
     private String test="aaaaaa";
-    private String test1="ssssssss";
-
+    private String test1="mmmm";
+    private String test2="ssssssss";
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
