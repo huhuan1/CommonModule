@@ -34,6 +34,7 @@ public abstract class BaseFragment extends RxFragment {
 
     private String test="aaaaaa";
     private String test1="ssssssss";
+
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
