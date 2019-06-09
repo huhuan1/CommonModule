@@ -32,8 +32,8 @@ public abstract class BaseFragment extends RxFragment {
     public boolean isVisiable;
     public View loadingView, emptyView;
 
-    private String test="ssssss";
-
+    private String test="aaaaaa";
+    private String test1="ssssssss";
     @Override
     public void onAttach(Context context) {
         super.onAttach(context);
